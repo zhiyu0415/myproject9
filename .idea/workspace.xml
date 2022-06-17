@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56eb73c5-e76a-4ffc-b077-c06ac15f14d0" name="Changes" comment="Hello world with kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fish/score/Student.kt" afterDir="false" />
+    <list default="true" id="56eb73c5-e76a-4ffc-b077-c06ac15f14d0" name="Changes" comment="score">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fish/score/Student.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fish/score/Student.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654849673953</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="score">
+      <created>1655447447874</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655447447874</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,7 +146,8 @@
     <MESSAGE value="Merged" />
     <MESSAGE value="Hello world with class Person" />
     <MESSAGE value="Hello world with kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello world with kotlin" />
+    <MESSAGE value="score" />
+    <option name="LAST_COMMIT_MESSAGE" value="score" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
